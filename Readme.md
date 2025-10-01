@@ -15,3 +15,6 @@
 | **13** | Jan 26  | **Agent Framework**: [Multi-agent Systems] | • [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://huggingface.co/papers/2308.08155)<br>• [CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society](https://arxiv.org/abs/2303.17760) |
 | **14** | Jan 26 | **Agent Application**: [Coding Agents] | • [OpenHands: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/abs/2407.16741)<br>• [If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents](https://arxiv.org/abs/2401.00812) |
 | **15** | Feb 2 | **Agent Application**: [Social Agents] | • [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)<br>• [SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents](https://arxiv.org/abs/2310.11667) |
+
+
+The content of this course is mainly adapted from https://github.com/ulab-uiuc/CS598-Topics-in-LLM-Agents
