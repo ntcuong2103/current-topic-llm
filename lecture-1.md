@@ -148,7 +148,7 @@ In matrix form for a batch of queries $Q$, keys $K$, and values $V$, the entire 
 
 When query and key vectors have different dimensions, additive attention can be used. This function uses a small feed-forward neural network with a single hidden layer to compute the compatibility score.
 
-The scoring function is: $a(q, k) = w_v^T * tanh(W_q*q + W_k*k)$.
+The scoring function is: $a(q, k) = w_v^T * tanh(W_q * q + W_k * k)$.
 Here, $W_q$, $W_k$, and $w_v$ are learnable weight parameters.
 
 ## 5. Practical Implementation Details
